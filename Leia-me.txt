@@ -1,0 +1,6 @@
+-Para acessar o visualizador em seu computador local, basta abrir o arquivo
+index.html, que se encontra dentro da pasta "mainWm", com o navegador de
+internet da sua preferência.
+
+Lembrando: o visualizador não se encontra em nenhum site online, apenas localmente
+em seu computador
