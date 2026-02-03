@@ -25,7 +25,7 @@ const map = L.map('mapa', {
 });
 
 const layers = {};
-// layers['Pontos'] = markersFromGEOJSON(null).addTo(map)
+//layers['Pontos'] = markersFromGEOJSON(null).addTo(map)
 layers['Pontos'] = clusteredPoints(markersFromGEOJSON(null)).addTo(map);
 
 const baseMaps = {
@@ -34,7 +34,7 @@ const baseMaps = {
 
 //Ícones ponto
 const acidentes = L.icon({
-  iconUrl: '../images/acidentes.png',
+  iconUrl: './images/acidentes.png',
   iconSize: [25, 25],
   popupAnchor: [0, -10],
 });

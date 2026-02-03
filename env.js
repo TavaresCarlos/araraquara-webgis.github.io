@@ -1,5 +1,7 @@
-const MAPBOX_KEY = 'CHAVE DA API MAPBOX'
+const MAPBOX_KEY = "TESTE"
+
 const INITIAL_VIEW = {
   cidade: [-21.807697283,-48.1617299219999]
 };
+
 const INITIAL_ZOOM = 11;
